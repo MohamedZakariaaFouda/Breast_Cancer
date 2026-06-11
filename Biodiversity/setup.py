@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='Biodiversity-Prediction',
 version='0.0.1',
-author='Mohamed Fouda',
+author='Mohamed_Fouda',
 author_email='mohamedzakariaafouda@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
